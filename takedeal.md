@@ -3,4 +3,4 @@ another company. What do you do next?
 
 [Build another company](anothercompany.md)  OR [Make a deal with another company](anotherdeal.md)
 
-[Start Over]
+[Start Over](../home.md)
