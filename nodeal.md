@@ -3,4 +3,4 @@
 [Work at another company](anothercompany.md) OR [Work at a deli](deli.md)
 
 
-[Start Over](../home.md)
+[Start Over](./home.md)
