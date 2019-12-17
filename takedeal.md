@@ -1,3 +1,4 @@
-You took the risk and gained $1 MILLION! What do you do next?
+You took the risk and gained enough money to pay back your debt as well as build 
+another company. What do you do next?
 
-[Build another company](anothercompany.md)  OR [Cooperate with another company](cooperation.md)
+[Build another company](anothercompany.md)  OR [Make a deal with another company](anotherdeal.md)
