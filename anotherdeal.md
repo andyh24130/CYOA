@@ -1,3 +1,3 @@
-## You made a deal with another company to gain more money but first that company needs some money. Would you give it to them?
+## The deal failed and you lost everything!!!
 
-[Yes]() OR [No]()
+### [Start Over](./home.md)
