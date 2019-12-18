@@ -1,3 +1,3 @@
-## You fired your friend sadly. However, your companies became very successful and you became the richest person in the world.
+## You fired your friend, sadly. However, both of your companies became very successful and you became the RICHEST PERSON IN THE WORLD!!!
 
 [Congratulations!!!](./home.md)
