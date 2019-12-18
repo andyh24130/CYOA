@@ -1,0 +1,3 @@
+## YOU HAVE BEEN PROMOTED TO MANAGER!!! 
+
+### [START OVER](./home.md)
