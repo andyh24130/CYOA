@@ -2,4 +2,4 @@
 
 [Fire your friend](success.md) OR [Let him continue being boss](companyfailed.md)
 
-[Start Over](../home.md)
+[Start Over](./home.md)
