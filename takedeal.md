@@ -2,4 +2,3 @@
 
 ### [Build another company](anothercompany.md)  OR [Make a deal with another company](anotherdeal.md)
 
-[Start Over](./home.md)
