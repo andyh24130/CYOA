@@ -1,3 +1,3 @@
 ## The deal failed and you lost everything!!!
 
-### [Start Over](./home.md)
+### [Be homeless](homeless.md) OR [Live with your parents](parents.md)
